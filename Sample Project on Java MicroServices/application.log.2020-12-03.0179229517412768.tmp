@@ -1,0 +1,75 @@
+2020-12-04 09:56:17.323  WARN 16285 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=11h46m59s27ms).
+2020-12-04 09:57:51.595  INFO 16285 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2020-12-04 10:02:51.612  INFO 16285 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2020-12-04 10:07:51.626  INFO 16285 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2020-12-04 10:12:51.656  INFO 16285 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2020-12-04 10:23:01.897  WARN 16285 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m43s981ms).
+2020-12-04 10:32:48.004  WARN 16285 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m46s107ms).
+2020-12-04 10:38:46.410  WARN 16285 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m28s393ms).
+2020-12-04 10:41:31.458  WARN 16285 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m45s48ms).
+2020-12-04 11:46:28.778  WARN 16285 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h4m27s312ms).
+2020-12-04 11:46:36.996  INFO 16285 --- [DiscoveryClient-HeartbeatExecutor-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_EUREKACLIENT/192.168.1.3:EurekaClient:9095 - Re-registering apps/EUREKACLIENT
+2020-12-04 11:46:37.000  INFO 16285 --- [DiscoveryClient-HeartbeatExecutor-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_EUREKACLIENT/192.168.1.3:EurekaClient:9095: registering service...
+2020-12-04 11:46:37.017  INFO 16285 --- [DiscoveryClient-HeartbeatExecutor-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_EUREKACLIENT/192.168.1.3:EurekaClient:9095 - registration status: 204
+2020-12-04 11:56:14.173  WARN 16285 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m45s395ms).
+2020-12-04 11:56:47.952  INFO 16285 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2020-12-04 12:06:29.365  WARN 16285 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m45s110ms).
+2020-12-04 12:16:44.022  WARN 16285 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m44s518ms).
+2020-12-04 12:26:28.640  WARN 16285 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m44s618ms).
+2020-12-04 12:26:36.750  INFO 16285 --- [DiscoveryClient-HeartbeatExecutor-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_EUREKACLIENT/192.168.1.3:EurekaClient:9095 - Re-registering apps/EUREKACLIENT
+2020-12-04 12:26:36.750  INFO 16285 --- [DiscoveryClient-HeartbeatExecutor-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_EUREKACLIENT/192.168.1.3:EurekaClient:9095: registering service...
+2020-12-04 12:26:36.755  INFO 16285 --- [DiscoveryClient-HeartbeatExecutor-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_EUREKACLIENT/192.168.1.3:EurekaClient:9095 - registration status: 204
+2020-12-04 14:36:30.711  WARN 16285 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2h9m31s670ms).
+2020-12-04 14:46:45.823  WARN 16285 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m44s520ms).
+2020-12-04 14:57:00.689  WARN 16285 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m44s350ms).
+2020-12-04 14:57:04.320  INFO 16285 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2020-12-04 15:06:46.465  WARN 16285 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m45s776ms).
+2020-12-04 15:17:02.055  WARN 16285 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m44s843ms).
+2020-12-04 15:27:17.936  WARN 16285 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m45s105ms).
+2020-12-04 17:13:14.781  WARN 16285 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h45m56s845ms).
+2020-12-04 17:28:34.711  WARN 16285 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=14m9s641ms).
+2020-12-04 17:38:20.653  WARN 16285 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m45s942ms).
+2020-12-04 17:38:24.218  INFO 16285 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2020-12-04 17:38:29.763  INFO 16285 --- [DiscoveryClient-HeartbeatExecutor-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_EUREKACLIENT/192.168.1.3:EurekaClient:9095 - Re-registering apps/EUREKACLIENT
+2020-12-04 17:38:29.763  INFO 16285 --- [DiscoveryClient-HeartbeatExecutor-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_EUREKACLIENT/192.168.1.3:EurekaClient:9095: registering service...
+2020-12-04 17:38:29.767  INFO 16285 --- [DiscoveryClient-HeartbeatExecutor-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_EUREKACLIENT/192.168.1.3:EurekaClient:9095 - registration status: 204
+2020-12-04 17:48:35.548  WARN 16285 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m44s501ms).
+2020-12-04 17:58:21.199  WARN 16285 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m45s651ms).
+2020-12-04 18:08:36.423  WARN 16285 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m44s681ms).
+2020-12-04 18:15:36.333  WARN 16285 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=6m29s279ms).
+2020-12-04 18:17:10.964  INFO 16285 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2020-12-04 18:22:11.631  INFO 16285 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2020-12-04 18:27:12.091  INFO 16285 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2020-12-04 18:38:22.378  WARN 16285 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m43s743ms).
+2020-12-04 18:48:07.341  WARN 16285 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m44s963ms).
+2020-12-04 18:58:22.751  WARN 16285 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m44s889ms).
+2020-12-04 19:03:41.730  WARN 16285 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m48s391ms).
+2020-12-04 19:04:16.121  INFO 16285 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2020-12-04 19:09:16.749  INFO 16285 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2020-12-04 19:14:17.197  INFO 16285 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2020-12-04 19:19:17.385  INFO 16285 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2020-12-04 19:24:17.401  INFO 16285 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2020-12-04 19:29:17.416  INFO 16285 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2020-12-04 19:34:17.427  INFO 16285 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2020-12-04 19:39:17.443  INFO 16285 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2020-12-04 19:44:17.454  INFO 16285 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2020-12-04 19:49:17.467  INFO 16285 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2020-12-04 19:54:17.485  INFO 16285 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2020-12-04 19:59:17.501  INFO 16285 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2020-12-04 20:10:28.933  WARN 16285 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m44s536ms).
+2020-12-04 20:10:38.662  INFO 16285 --- [DiscoveryClient-HeartbeatExecutor-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_EUREKACLIENT/192.168.1.3:EurekaClient:9095 - Re-registering apps/EUREKACLIENT
+2020-12-04 20:10:38.662  INFO 16285 --- [DiscoveryClient-HeartbeatExecutor-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_EUREKACLIENT/192.168.1.3:EurekaClient:9095: registering service...
+2020-12-04 20:10:38.669  INFO 16285 --- [DiscoveryClient-HeartbeatExecutor-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_EUREKACLIENT/192.168.1.3:EurekaClient:9095 - registration status: 204
+2020-12-04 20:20:44.964  WARN 16285 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m46s21ms).
+2020-12-04 20:30:30.476  WARN 16285 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m45s512ms).
+2020-12-04 20:40:48.476  WARN 16285 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s990ms).
+2020-12-04 20:50:36.342  INFO 16285 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2020-12-04 20:51:03.283  WARN 16285 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m44s798ms).
+2020-12-04 21:00:49.231  WARN 16285 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m45s948ms).
+2020-12-04 21:00:58.989  INFO 16285 --- [DiscoveryClient-HeartbeatExecutor-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_EUREKACLIENT/192.168.1.3:EurekaClient:9095 - Re-registering apps/EUREKACLIENT
+2020-12-04 21:00:58.989  INFO 16285 --- [DiscoveryClient-HeartbeatExecutor-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_EUREKACLIENT/192.168.1.3:EurekaClient:9095: registering service...
+2020-12-04 21:00:58.999  INFO 16285 --- [DiscoveryClient-HeartbeatExecutor-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_EUREKACLIENT/192.168.1.3:EurekaClient:9095 - registration status: 204
+2020-12-04 23:01:30.355  WARN 16285 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2h11s114ms).
+2020-12-04 23:01:40.144  INFO 16285 --- [DiscoveryClient-HeartbeatExecutor-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_EUREKACLIENT/192.168.1.3:EurekaClient:9095 - Re-registering apps/EUREKACLIENT
+2020-12-04 23:01:40.144  INFO 16285 --- [DiscoveryClient-HeartbeatExecutor-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_EUREKACLIENT/192.168.1.3:EurekaClient:9095: registering service...
+2020-12-04 23:01:40.173  INFO 16285 --- [DiscoveryClient-HeartbeatExecutor-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_EUREKACLIENT/192.168.1.3:EurekaClient:9095 - registration status: 204

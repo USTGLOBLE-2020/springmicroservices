@@ -1,0 +1,8 @@
+2020-12-05 08:02:04.476  WARN 16285 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9h34s124ms).
+2020-12-05 09:00:21.076  WARN 16285 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=58m16s600ms).
+2020-12-05 11:14:53.706  WARN 16285 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2h14m32s605ms).
+2020-12-05 18:15:00.836  WARN 16285 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=7h7s49ms).
+2020-12-05 19:15:04.517  INFO 16285 --- [DiscoveryClient-HeartbeatExecutor-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_EUREKACLIENT/192.168.1.3:EurekaClient:9095 - Re-registering apps/EUREKACLIENT
+2020-12-05 19:15:04.529  INFO 16285 --- [DiscoveryClient-HeartbeatExecutor-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_EUREKACLIENT/192.168.1.3:EurekaClient:9095: registering service...
+2020-12-05 19:15:04.583  INFO 16285 --- [DiscoveryClient-HeartbeatExecutor-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_EUREKACLIENT/192.168.1.3:EurekaClient:9095 - registration status: 204
+2020-12-05 23:45:06.861  WARN 16285 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5h30m6s129ms).
